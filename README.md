@@ -8,6 +8,10 @@ Projeto Sistema Venda A proposta para o desenvolvimento do software Sistema de V
 
 ![unnamed](https://user-images.githubusercontent.com/82888848/191596328-e1273448-558c-4e59-8954-597b1bd762f9.png)
 
+✔ Aulas ministradas por: 
+
+- CidAndrade
+
 ## ✔ Utilitarios
 
 - Netbeans
