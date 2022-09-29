@@ -22,6 +22,7 @@ CidAndrade
 
 - Java
 - Linguagem SQL
+- Projetado interface gráfica no GUI Swing no NetBeans IDE
 
 
 ## ✔ Entity Relationship Diagram (UML Notation)
