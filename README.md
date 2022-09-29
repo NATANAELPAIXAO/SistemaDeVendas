@@ -24,6 +24,12 @@ CidAndrade
 - Linguagem SQL
 
 
+## ✔ Entity Relationship Diagram Example (UML Notation)
+
+![_Entity Relationship Diagram Example (UML Notation)](https://user-images.githubusercontent.com/82888848/192935383-80efcfd9-6d81-48c8-8f3d-62a5d305a649.png)
+
+
+
 
 
 
