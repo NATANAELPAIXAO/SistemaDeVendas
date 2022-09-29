@@ -5,11 +5,7 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
-/**
- * Classe contendo os dados da venda
- *
- * @author Daniel
- */
+
 public class Venda {
 
     private int codigo;

@@ -4,11 +4,7 @@ import com.to.Cliente;
 import java.util.List;
 import javax.swing.table.AbstractTableModel;
 
-/**
- * Classe que define o modelo para tabela contendo dados do cliente
- *
- * @author Daniel
- */
+
 public class ClienteTableModel extends AbstractTableModel {
 
     private String colunas[] = {"Nome", "CPF"};

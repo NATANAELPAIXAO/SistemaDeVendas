@@ -1,10 +1,6 @@
 package com.to;
 
-/**
- * Classe de relação entre a venda e o produto
- *
- * @author Daniel
- */
+
 public class ItemVenda {
 
     private int codigo;

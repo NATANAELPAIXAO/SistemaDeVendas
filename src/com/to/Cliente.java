@@ -2,11 +2,6 @@ package com.to;
 
 import java.util.Date;
 
-/**
- * Classe contendo os dados do cliente
- *
- * @author Daniel
- */
 public class Cliente {
 
     private int codigo;

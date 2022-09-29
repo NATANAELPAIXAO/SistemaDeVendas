@@ -1,10 +1,5 @@
 package com.to.enums;
 
-/**
- * Enumeração das possíveis situações de um registro
- *
- * @author Daniel
- */
 public enum Situacao {
 
     /**

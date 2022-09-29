@@ -11,11 +11,7 @@ import com.to.enums.Situacao;
 import java.util.Date;
 import javax.swing.JOptionPane;
 
-/**
- * Janela de lançamento de compra
- *
- * @author Daniel
- */
+
 public class LancamentoCompra extends javax.swing.JInternalFrame {
 
     private Compra compra = null;

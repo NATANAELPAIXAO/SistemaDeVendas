@@ -5,11 +5,7 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
-/**
- * Classe contendo os dados da compra
- *
- * @author Daniel
- */
+
 public class Compra {
 
     private int codigo;

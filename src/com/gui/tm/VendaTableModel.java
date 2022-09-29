@@ -6,11 +6,7 @@ import java.text.SimpleDateFormat;
 import java.util.List;
 import javax.swing.table.AbstractTableModel;
 
-/**
- * Classe que define o modelo para tabela contendo dados da venda
- *
-  * @author Daniel
- */
+
 public class VendaTableModel extends AbstractTableModel {
 
     private final SimpleDateFormat SDF = new SimpleDateFormat("dd/MM/yyyy");

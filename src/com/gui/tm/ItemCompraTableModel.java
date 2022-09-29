@@ -5,11 +5,7 @@ import java.text.NumberFormat;
 import java.util.List;
 import javax.swing.table.AbstractTableModel;
 
-/**
- * Classe que define o modelo para tabela contendo dados dos itens da compra
- *
- * @author Daniel
- */
+
 public class ItemCompraTableModel extends AbstractTableModel {
 
     private final NumberFormat NF = NumberFormat.getNumberInstance();

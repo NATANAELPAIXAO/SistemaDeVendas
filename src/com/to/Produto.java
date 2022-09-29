@@ -1,10 +1,6 @@
 package com.to;
 
-/**
- * Classe contendo os dados do produto
- *
- * @author Daniel
- */
+
 public class Produto {
 
     private int codigo;

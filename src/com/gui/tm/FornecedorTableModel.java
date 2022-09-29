@@ -4,11 +4,7 @@ import com.to.Fornecedor;
 import java.util.List;
 import javax.swing.table.AbstractTableModel;
 
-/**
- * Classe que define o modelo para tabela contendo dados do fornecedor
- *
- * @author Daniel
- */
+
 public class FornecedorTableModel extends AbstractTableModel {
 
     private String colunas[] = {"Nome", "CNPJ"};

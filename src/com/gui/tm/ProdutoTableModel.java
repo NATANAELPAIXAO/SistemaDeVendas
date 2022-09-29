@@ -4,14 +4,10 @@ import com.to.Produto;
 import java.util.List;
 import javax.swing.table.AbstractTableModel;
 
-/**
- * Classe que define o modelo para tabela contendo dados do produto
- *
- * @author Daniel
- */
+
 public class ProdutoTableModel extends AbstractTableModel {
 
-    private String colunas[] = {"Nome"};
+    private final String colunas[] = {"Nome"};
     private List<Produto> dados;
 
     @Override
