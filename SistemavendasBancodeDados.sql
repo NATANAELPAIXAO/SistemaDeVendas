@@ -1,3 +1,4 @@
+Create database dbsistemavenda;
 USE dbsistemavenda;
 
 CREATE TABLE tbcliente (
