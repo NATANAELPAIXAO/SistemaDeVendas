@@ -1,5 +1,5 @@
 Create database dbsistemavenda;
-USE dbsistemavenda;
+use dbsistemavenda;
 
 CREATE TABLE tbcliente (
   Codigo int(11) NOT NULL AUTO_INCREMENT,
