@@ -30,10 +30,12 @@ CidAndrade
 
 ## ✔ Entity Relationship Diagram (UML Notation)
 
-![_Entity Relationship Diagram Example (UML Notation)](https://user-images.githubusercontent.com/82888848/192935383-80efcfd9-6d81-48c8-8f3d-62a5d305a649.png)
+
+![UML](https://user-images.githubusercontent.com/82888848/193087483-e269b02a-be25-4f39-8ff7-425b0e336d8e.jpg)
 
 
 
+![UML2](https://user-images.githubusercontent.com/82888848/193087469-484679fa-dc8a-422b-a160-8b9c99961bfc.jpg)
 
 
 
