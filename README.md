@@ -10,7 +10,8 @@ Projeto Sistema Venda A proposta para o desenvolvimento do software Sistema de V
 
 ✔ Aulas ministradas por: 
 
-- CidAndrade
+CidAndrade
+- https://github.com/cidandrade
 
 ## ✔ Utilitarios
 
