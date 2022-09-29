@@ -26,7 +26,7 @@ CidAndrade
 
 ## ✔ Desenvolvimento 🛠
 
-- Natanael paixão
+- Natanael Paixão
 
 ## ✔ Entity Relationship Diagram (UML Notation)
 
