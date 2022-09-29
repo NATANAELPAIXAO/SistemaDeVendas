@@ -24,6 +24,9 @@ CidAndrade
 - Linguagem SQL
 - Projetado interface gráfica no GUI Swing no NetBeans IDE
 
+## ✔ Desenvolvimento 🛠
+
+- Natanael paixão
 
 ## ✔ Entity Relationship Diagram (UML Notation)
 
